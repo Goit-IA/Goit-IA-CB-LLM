@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain-community
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+ollama
